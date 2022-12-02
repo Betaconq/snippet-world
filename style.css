@@ -1,4 +1,7 @@
 
+html{
+  scroll-behavior: smooth;
+}
        .star-container {
         display: flex;
         justify-content: center;
